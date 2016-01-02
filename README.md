@@ -1,9 +1,9 @@
 
-##介绍
+##钉钉红包插件介绍
 
 这个Android插件可以帮助你在钉钉群聊抢红包时战无不胜。当检测到红包时，插件会自动点击屏幕，人工点击的速度无法比拟。
 
-你正在查看的是(https://github.com/snailflying/grab_money)，根据目前的测试，稳定版本抢到红包的概率为100%。
+这个版本是初始版本。不可避免的存在bug。如果发现问题，请联系我
 
 
 ## 最新版本
@@ -18,7 +18,7 @@
 
 ## 实现原理
 
-(https://github.com/snailflying/grab_money/README.md)中详细介绍了实现。
+利用AccessibilityService实现红包辅助。
 
 ## 版权说明
 
