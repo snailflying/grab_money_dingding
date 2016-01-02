@@ -12,7 +12,7 @@
         android:elevation="8dp"
         android:gravity="bottom|center_horizontal"
         android:paddingBottom="12dp"
-        android:text="微信红包"
+        android:text="钉钉红包"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColor="#fff" />
 
