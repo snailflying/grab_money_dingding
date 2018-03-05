@@ -2,4 +2,7 @@
     <string name="app_name">钉钉红包</string>
     <string name="service_status">当前辅助服务状态:</string>
     <string name="service_name">设置抢红包辅助服务</string>
+    <string name="stable">稳定版</string>
+    <string name="git_url">https://github.com/snailflying/grab_money_dingding</string>
+    <string name="github_desc">去Github关注项目进展</string>
 </resources>
